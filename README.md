@@ -1,8 +1,5 @@
-# Suhani-health-tech-showcase
-Discover my healthcare IT projects using various medical technologies, informatic tools, and data analytics to enhance delivery, improve outcomes, and advance healthcare solutions for better population health. Committed to driving innovation in healthcare.
-Maximizing Prevention Through Informatics in Diabetes Management
-
-Research Question 
+Title: Maximizing Prevention Through Informatics in Diabetes Management
+ 
 How can health information technology (IT) be leveraged to enhance the management of type 2 diabetes (T2D) and maximize prevention efforts?
 
 Objective: 

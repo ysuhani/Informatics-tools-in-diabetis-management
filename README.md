@@ -24,10 +24,8 @@ Significance:
 The project's significance lies in its use of health information technology to improve diabetes management, aiming to enhance glycemic control and reduce complications for individuals with type 2 diabetes. It highlights the importance of integrating technology into healthcare for better outcomes.
 
 Personal Contributions:
-- Conducted extensive research on the role of health IT in diabetes management.
+- I played a major role in our project, where I contributed many innovative solutions. Additionally, I took the lead in preparing documentation and collecting insights from various sources.
 - Analyzed  findings from various studies and literature sources from Pubmed & Michigan diabetes statistical reports.
-- Contributed insights and recommendations for leveraging health informatics in diabetes care to maximize prevention efforts and improve patient outcomes.
   
-Conclusion:
 
 The integration of health information technology (IT) into diabetes management holds immense promise for maximizing prevention efforts and improving patient outcomes, particularly in the context of type 2 diabetes (T2D). Through a comprehensive literature review and analysis, this project has underscored the critical role of various informatics tools, including mobile apps, wearable devices, electronic health records (EHRs), telemedicine platforms, and data analytics, in enhancing T2D management.

@@ -18,7 +18,11 @@ Findings:
 - Telemedicine platforms & remote consultations, improving access to care, especially for underserved populations.
 
 Challenges:
-Include data privacy concerns, interoperability issues, limited access to technology, and regulatory compliance.
+
+-Training and education of healthcare professionals and patients on how to effectively
+utilize these tools.
+-Include data privacy concerns, interoperability issues, limited access to technology, and regulatory compliance.
+-Interoperability issues between different health information systems
 
 Significance:
 The project's significance lies in its use of health information technology to improve diabetes management, aiming to enhance glycemic control and reduce complications for individuals with type 2 diabetes. It highlights the importance of integrating technology into healthcare for better outcomes.
@@ -27,5 +31,5 @@ Personal Contributions:
 - I played a major role in our project, where I contributed many innovative solutions. Additionally, I took the lead in preparing documentation and collecting insights from various sources.
 - Analyzed  findings from various studies and literature sources from Pubmed & Michigan diabetes statistical reports.
   
-
+Conclusion:
 The integration of health information technology (IT) into diabetes management holds immense promise for maximizing prevention efforts and improving patient outcomes, particularly in the context of type 2 diabetes (T2D). Through a comprehensive literature review and analysis, this project has underscored the critical role of various informatics tools, including mobile apps, wearable devices, electronic health records (EHRs), telemedicine platforms, and data analytics, in enhancing T2D management.
